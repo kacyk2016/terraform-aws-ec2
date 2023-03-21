@@ -1,0 +1,1 @@
+# devops-terraform-repository-template
